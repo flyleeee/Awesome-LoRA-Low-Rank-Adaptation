@@ -63,13 +63,14 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 
 | Year | Title | Venue | Paper | Code |
 |------|-------|-------|-------|------|
+| 2024 | **BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models** | NeurIPS     | [Link](https://arxiv.org/abs/2406.11675) | [Link]([https://github.com/stan-anony/derivative_free_lora_rank](https://github.com/Wang-ML-Lab/bayesian-peft)) |
 | 2024 | **Derivative-Free Optimization for Low-Rank Adaptation in Large Language Models** |    arXiv   | [Link](https://arxiv.org/abs/2403.01754) |  [Link](https://github.com/stan-anony/derivative_free_lora_rank) |
 | 2024 | **AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models** |    arXiv   | [Link](https://arxiv.org/abs/2403.13269) |  - |
 | 2023 | **Bayesian Low-rank Adaptation for Large Language Models** |    ICLR   | [Link](https://arxiv.org/abs/2308.13111) |  [Link](https://github.com/MaximeRobeyns/bayesian_lora) |
 | 2024 | A Study of Optimizations for Fine-tuning Large Language Models | -                | [Link](https://arxiv.org/abs/2406.02290) | -                                                            |\
 | 2024 | Bayesian-LoRA: LoRA based Parameter Efficient Fine-Tuning using Optimal Quantization levels and Rank Values trough Differentiable Bayesian Gates | -     | [Link](https://arxiv.org/abs/2406.13046) | -                                                            |
 | 2024 | Understanding Linear Probing then Fine-tuning Language Models from NTK Perspective | -     | [Link](https://arxiv.org/abs/2405.16747) | -                                                            |
-| 2024 | BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models | -     | [Link](https://arxiv.org/abs/2406.11675) | -                                                            |
+
 
 
 
